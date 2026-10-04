@@ -18,6 +18,7 @@
 
 ```
 intraday-etf/
+├── AGENTS.md                        # 给 AI Agent 的项目说明（编辑代码前先看）
 ├── README.md                        # 本指南
 ├── common/qmt_api_reference.md      # ContextInfo/passorder API 速查（先看这个）
 └── strategies/                      # 全部为 QMT 内置 Python 策略（周期都设「1分钟」）
